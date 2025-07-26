@@ -1,0 +1,6 @@
+Model,Total Hallucination %,contradiction,entity_swap,fictional_location,impossible_timeline
+mistral-large-latest,44.0,2.27,52.27,36.36,9.09
+mistral-small,44.0,2.27,52.27,34.09,11.36
+gpt-3.5-turbo,41.0,2.44,46.34,41.46,9.76
+gpt-4o,20.0,,70.0,15.0,15.0
+claude-3-sonnet,10.0,,50.0,50.0,
