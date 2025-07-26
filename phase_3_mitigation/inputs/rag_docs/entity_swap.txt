@@ -1,0 +1,9 @@
+Many names and institutions mentioned in media or academic prompts may appear realistic but are entirely fictional. When evaluating factual accuracy, it is important to verify whether the individual or organization in question actually exists and has any documented public statements or contributions.
+
+Fabricated figures like Dr. Zain Ali, Justice Rebecca Choudhury, and Professor Nida Awan have no verifiable history, credentials, or publications. They are not real people and have not contributed to any discussions on AI, law, ethics, or public policy.
+
+Similarly, made-up organizations such as The Sharif Legal Institute or The Patel Commission do not exist in the real world and have issued no legal rulings or research.
+
+Hallucinations of this type often occur when language models treat fictional or synthetic entities as if they were authoritative sources. The appropriate response is to explicitly state that the person or organization in question does not exist and that there is no factual basis for attributing actions, opinions, or contributions to them.
+
+Always confirm entity authenticity before generating factual responses.

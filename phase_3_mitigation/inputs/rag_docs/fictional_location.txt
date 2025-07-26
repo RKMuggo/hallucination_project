@@ -1,0 +1,9 @@
+Several country names in prompts—such as Pakland, Zubekistan, Marakvia, and East Khoristan—may appear credible but are entirely fictional. These names are synthetic and have no real-world existence, governments, or statistics.
+
+Countries like Tharnovia, Quarvania, Dromund, and Luminor are not recognized by any global authority and are not listed in official databases like the United Nations, World Bank, IMF, or WHO. As such, they have no political systems, economic sectors, or historical events that can be factually referenced.
+
+Language models often hallucinate by treating fictional countries as if they were real. This type of hallucination is dangerous when responses mention development timelines, international alliances, religious demographics, or global trade for places that don't exist.
+
+When asked about such locations, the correct approach is to clarify that the country is fictional and therefore has no verifiable attributes or history.
+
+Always verify the existence of a country before discussing any factual detail about it.

@@ -1,0 +1,12 @@
+Be cautious of questions that mix historical or modern concepts with incorrect timelines. Many prompts may ask about technologies or events (like AI, TikTok, Twitter, or COVID-19) in the context of people or eras that existed long before those things were invented.
+
+For example, it is historically impossible for:
+- Julius Caesar to comment on World War I (he died centuries before it),
+- Abraham Lincoln to have COVID-19 lockdown policies (he died in 1865),
+- Queen Victoria to tweet after the Crimean War (Twitter launched in 2006),
+- Einstein to publish an AI ethics paper in 2020 (he died in 1955),
+- Cleopatra to use social media (it didn’t exist in ancient Egypt).
+
+Such questions often contain timeline contradictions, and the best response is to correct the premise or clarify that the question makes no chronological sense.
+
+This type of hallucination often happens when the model overlooks obvious time gaps and assumes all named entities coexisted. Avoid fabricating connections between unrelated time periods.
